@@ -1,0 +1,31 @@
+{
+    "site": "https://www.oka.com/",
+    "appDownloadUrl": "https://app.oka.com/",
+    "android": {
+      "version": "1.0.72",
+      "min": "1.0.70"
+    },
+    "ios": {
+      "version": "1.0.72",
+      "min": "1.0.70"
+    },
+    "isShowInfo": false,
+    "menuList": [
+      {
+        "type": "home",
+        "url": ""
+      },
+      {
+        "type": "chooseline",
+        "url": ""
+      },
+      {
+        "type": "cache",
+        "url": ""
+      },
+      {
+        "type": "logs",
+        "url": ""
+      }
+    ]
+}
